@@ -51,3 +51,26 @@
     git clone https://github.com/bryancarrion19/Neowear.git
     cd Neowear
     ```
+2. Instala dependencias:
+    ```bash
+    composer install
+    npm install
+    npm run dev
+    ```
+3. Configura el archivo **.env** con tus credenciales de base de datos, paypal y smtp
+4. Genera la clave de aplicación:
+    ```bash
+    php artisan key:generate
+    ```
+5. Ejecuta migraciones y seeders:
+    ```bash
+    php artisan migrate --seed
+    ```
+6. Inicia el servidor local:
+    ```bash
+    php artisan serve
+    ```
+
+## 🤝 Contribuciones
+¡Las contribuciones son bienvenidas! Por favor abre un issue o un pull request para sugerir mejoras o reportar errores.
+ 
