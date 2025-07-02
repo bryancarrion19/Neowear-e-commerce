@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'welcome' => 'Welcome',
+    'login' => 'Login',
+    'logout' => 'Logout',
+    'home' => 'Home',
+    'products' => 'Products',
+    'cart' => 'Cart',
+    'about' => 'About us',
+    'profile' => 'Profile',
+    'my_orders' => 'My orders',
+    'terms_conditions' => 'Terms and conditions',
+    'privacy_policy' => 'Privacy policy',
+    'shipping_returns' => 'Shipping and returns',
+    'contact_email' => 'contact@neowear.com',
+    'contact_phone' => '+1 234 567 890',
+    'contact_instagram' => 'Instagram',
+    'contact_facebook' => 'Facebook',
+    'contact_twitter' => 'Twitter',
+    'copyright' => 'Copyright &copy; 2025 NeoWear | All rights reserved',
+    'menu' => 'Menu',
+    'close_session' => 'Close session',
+    'login_here' => 'Login here',
+    'register_here' => 'Register here',
+    'for_the_ones_who_set_the_beat' => 'For the ones who set the beat',
+    'neowear' => 'NeoWear',
+];
