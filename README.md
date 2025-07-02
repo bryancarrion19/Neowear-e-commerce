@@ -7,6 +7,9 @@
 # Preview
 
 ![Neowear preview](preview.png)
+![Neowear preview](preview2.png)
+![Neowear preview](preview3.png)
+![Neowear preview](preview4.png)
 
 ## 🚀 Descripción
 
