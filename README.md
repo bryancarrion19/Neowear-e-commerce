@@ -1,8 +1,12 @@
 # Neowear - Plataforma E-commerce
 
-![Neowear Logo](ruta/a/tu/logo.png) <!-- opcional, si tienes logo -->
+![Neowear Logo](1.png) <!-- opcional, si tienes logo -->
 
 ---
+
+# Preview
+
+(preview.png)
 
 ## 🚀 Descripción
 
