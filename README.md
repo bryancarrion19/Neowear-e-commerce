@@ -6,7 +6,7 @@
 
 # Preview
 
-(preview.png)
+![Neowear preview](preview.png)
 
 ## 🚀 Descripción
 
